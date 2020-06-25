@@ -6,6 +6,6 @@ namespace Store.Domain.Repositories.Interfaces
 {
     public interface IProductRepository
     {
-        IEnumerable<Product> GetEnumerable(IEnumerable<Guid> ids);
+        IEnumerable<Product> Get(IEnumerable<Guid> ids);
     }
 }
