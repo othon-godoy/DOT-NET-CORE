@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\othon\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\othon\\.nuget\\packages"
+      "C:\\Users\\moneto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\moneto\\.nuget\\packages"
     ]
   }
 }

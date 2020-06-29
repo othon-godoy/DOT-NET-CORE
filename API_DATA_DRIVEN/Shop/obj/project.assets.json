@@ -6922,19 +6922,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\othon\\.nuget\\packages\\": {}
+    "C:\\Users\\moneto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\othon\\Documents\\CURSOS\\DOTNET-CORE\\API_DATA_DRIVEN\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\moneto\\Documents\\Cursos\\DOTNET-CORE\\API_DATA_DRIVEN\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\othon\\Documents\\CURSOS\\DOTNET-CORE\\API_DATA_DRIVEN\\Shop\\Shop.csproj",
-      "packagesPath": "C:\\Users\\othon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\othon\\Documents\\CURSOS\\DOTNET-CORE\\API_DATA_DRIVEN\\Shop\\obj\\",
+      "projectPath": "C:\\Users\\moneto\\Documents\\Cursos\\DOTNET-CORE\\API_DATA_DRIVEN\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\moneto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\moneto\\Documents\\Cursos\\DOTNET-CORE\\API_DATA_DRIVEN\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\othon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\moneto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7003,7 +7003,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
